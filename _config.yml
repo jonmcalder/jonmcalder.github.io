@@ -1,2 +1,4 @@
 name: Jon Calder
 markdown: kramdown
+gems:
+  - jekyll-sitemap
