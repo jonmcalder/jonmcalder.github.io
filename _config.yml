@@ -53,11 +53,11 @@ footer-links-active:
   twitter: true
   google-plus: false
   github: true
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: true
   snapchat: false
-  instagram: false
+  instagram: ture
   youtube: false
   spotify: false
 
