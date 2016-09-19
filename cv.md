@@ -76,14 +76,19 @@ Technical Experience
 --------------------
 
 ### Software & Programming Languages
+
 #### _R, C++, Java \& Python_
 Proficient with R, some experience with C++, Java, Scala \& Python
+
 #### _Databases \& Scripting_
 MySQL, T-SQL, Excel, VBA, SSAS, SSMS, SSRS + limited experience with MDX
+
 #### _Document Preparation_
 Word, Powerpoint, Markdown, LaTeX
+
 #### _Statistical Packages_
 Some experience with Statistica, SPSS, EViews & Genstat
+
 #### _Web Development_
 Some experience with HTML \& CSS, PHP, Javascript, Wordpress
 
@@ -93,7 +98,7 @@ Education
 2009 - 2013
 :   **MSc in Operations Research (with distinction)**; University of Cape Town, Department of Statistics
 
-    * Decision modeling, decision support, logical fallacies \& reasoning, performance analysis in sport.
+    * Decision modeling, decision support, logical fallacies & reasoning, performance analysis in sport.
     
 #### Masters dissertation
 ##### Title: _Player performance evaluation in rugby using Stochastic Multi-Criteria Acceptability Analysis with simplified uncertainty formats_
@@ -148,7 +153,7 @@ Achievements and Extra Murals
   * 2004 - Grade 8 mentor, Carter High School
   * 2003 - Member of Matric Dance Committee, Carter High School
 
-Interests \& Hobbies
+Interests & Hobbies
 --------------------
 * Gamification, Behavioural Analytics
 * Data mining, Decision making and decision support
