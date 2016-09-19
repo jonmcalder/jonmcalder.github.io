@@ -62,29 +62,29 @@ October 2011 - August 2016
 Publications
 ------------
 
-### _Modelling uncertainty in stochastic multicriteria acceptability analysis_
-#### Ian N. Durbach, Jon M. Calder 
-#### Omega (October 2015)
-##### Available at: [http://dx.doi.org/10.1016/j.omega.2015.10.015](http://dx.doi.org/10.1016/j.omega.2015.10.015)
+#### _Modelling uncertainty in stochastic multicriteria acceptability analysis_
+Ian N. Durbach, Jon M. Calder   
+Omega (October 2015)  
+Available at: [http://dx.doi.org/10.1016/j.omega.2015.10.015](http://dx.doi.org/10.1016/j.omega.2015.10.015)
 					
 #### _Decision Support for Evaluating Player Performance in Rugby Union_
-#### Jon M Calder, Ian N. Durbach 
-#### International Journal of Sports Science & Coaching (February 2015)
-##### Available at: [http://dx.doi.org/10.1260/1747-9541.10.1.21](http://dx.doi.org/10.1260/1747-9541.10.1.21)
+Jon M Calder, Ian N. Durbach   
+International Journal of Sports Science & Coaching (February 2015)  
+Available at: [http://dx.doi.org/10.1260/1747-9541.10.1.21](http://dx.doi.org/10.1260/1747-9541.10.1.21)
 
 Technical Experience
 --------------------
 
 ### Software & Programming Languages
-#### R, C++, Java \& Python 
+#### _R, C++, Java \& Python_
 Proficient with R, some experience with C++, Java, Scala \& Python
-#### Databases \& Scripting
+#### _Databases \& Scripting_
 MySQL, T-SQL, Excel, VBA, SSAS, SSMS, SSRS + limited experience with MDX
-#### Document Preparation
+#### _Document Preparation_
 Word, Powerpoint, Markdown, LaTeX
-#### Statistical Packages
+#### _Statistical Packages_
 Some experience with Statistica, SPSS, EViews & Genstat
-#### Web Development
+#### _Web Development_
 Some experience with HTML \& CSS, PHP, Javascript, Wordpress
 
 Education
