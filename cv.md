@@ -77,10 +77,10 @@ Technical Experience
 
 ### Software & Programming Languages
 
-#### _R, C++, Java \& Python_
+#### _R, C++, Java & Python_
 Proficient with R, some experience with C++, Java, Scala \& Python
 
-#### _Databases \& Scripting_
+#### _Databases & Scripting_
 MySQL, T-SQL, Excel, VBA, SSAS, SSMS, SSRS + limited experience with MDX
 
 #### _Document Preparation_
@@ -90,7 +90,7 @@ Word, Powerpoint, Markdown, LaTeX
 Some experience with Statistica, SPSS, EViews & Genstat
 
 #### _Web Development_
-Some experience with HTML \& CSS, PHP, Javascript, Wordpress
+Some experience with HTML & CSS, PHP, Javascript, Wordpress
 
 Education
 ----------
