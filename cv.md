@@ -23,7 +23,7 @@ September 2016 - Present
     * assist with both functional and technical product documentation
     * conduct ongoing industry and competitor research to inform the design of product features
     * determine product data requirements and support delivery of data, monitoring and analysis to operators
-    * expand on underling game maths and service maths requirements for product features as they are designed, developed \& iterated upon
+    * expand on underling game maths and service maths requirements for product features as they are designed, developed & iterated upon
     * develop tools to model and simulate the impact of changes to product configuration
 
 October 2011 - August 2016
@@ -42,16 +42,16 @@ October 2011 - August 2016
     * Tutored undergraduate statistics courses from 1st year through to 3rd year
     * Responsibilities involved:
         - facilitating weekly class tutorials
-        - invigilating \& marking of tests and exams
+        - invigilating & marking of tests and exams
         - ad-hoc one-on-one hot-seat tutoring
 
 2008 - 2011
 :   **Senior Tutor**; Axiom Tutoring
 
     * Tutoring of mathematics and statistics from high school through to undergraduate university level
-    * e-mail administration \& allocation of tutors to students
-    * one-on-one \& small group tutoring
-    * preparation \& typesetting of notes and worksheets
+    * e-mail administration & allocation of tutors to students
+    * one-on-one & small group tutoring
+    * preparation & typesetting of notes and worksheets
     
 2007 Summer
 :   **Student Internship**; Momentum Collective Benefits
@@ -62,12 +62,12 @@ October 2011 - August 2016
 Publications
 ------------
 
-##### _Modelling uncertainty in stochastic multicriteria acceptability analysis_
+#### _Modelling uncertainty in stochastic multicriteria acceptability analysis_
 ##### Ian N. Durbach, Jon M. Calder 
 ##### Omega (October 2015)
 ###### Available at: [http://dx.doi.org/10.1016/j.omega.2015.10.015](http://dx.doi.org/10.1016/j.omega.2015.10.015)
 					
-##### _Decision Support for Evaluating Player Performance in Rugby Union_
+#### _Decision Support for Evaluating Player Performance in Rugby Union_
 ##### Jon M Calder, Ian N. Durbach 
 ##### International Journal of Sports Science & Coaching (February 2015)
 ###### Available at: [http://dx.doi.org/10.1260/1747-9541.10.1.21](http://dx.doi.org/10.1260/1747-9541.10.1.21)
@@ -75,13 +75,17 @@ Publications
 Technical Experience
 --------------------
 
-Software \& Programming Languages
-: **R, C++, Java \& Python** Proficient with R, some experience with C++, Java, Scala \& Python
-: **Databases \& Scripting** MySQL, T-SQL, Excel, VBA, SSAS, SSMS, SSRS + limited experience with MDX
-: **Document Preparation**  Word, Powerpoint, Markdown, LaTeX
-: **Statistical Packages** Some experience with Statistica, SPSS, EViews & Genstat
-: **Web Development** Some experience with HTML \& CSS, PHP, Javascript, Wordpress
-
+### Software & Programming Languages
+#### R, C++, Java \& Python 
+Proficient with R, some experience with C++, Java, Scala \& Python
+#### Databases \& Scripting
+MySQL, T-SQL, Excel, VBA, SSAS, SSMS, SSRS + limited experience with MDX
+#### Document Preparation
+Word, Powerpoint, Markdown, LaTeX
+#### Statistical Packages
+Some experience with Statistica, SPSS, EViews & Genstat
+#### Web Development
+Some experience with HTML \& CSS, PHP, Javascript, Wordpress
 
 Education
 ----------
