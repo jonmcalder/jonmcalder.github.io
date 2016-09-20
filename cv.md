@@ -101,7 +101,7 @@ Education
     * Decision modeling, decision support, logical fallacies & reasoning, performance analysis in sport.
     
 #### Masters dissertation
-##### Title: _Player performance evaluation in rugby using Stochastic Multi-Criteria Acceptability Analysis with simplified uncertainty formats_
+#### Title: _Player performance evaluation in rugby using Stochastic Multi-Criteria Acceptability Analysis with simplified uncertainty formats_
 ###### Supervisor: Dr Ian Durbach
 ###### Description: This study investigates the use of SMAA as a decision support tool for rugby coaches by making use of game data to inform possible rankings of players within positional profiles based on preference criteria.
     
@@ -111,7 +111,7 @@ Education
     * Operations Research, Decision Modelling, Theory of Statistics, Multivariate Analysis, Econometrics, Portfolio Management.
     
 #### Honours dissertation
-##### Title: _Application of Rasch Analysis to the Assessment of Grade 6 Literacy and Numeracy In The Western Cape_
+#### Title: _Application of Rasch Analysis to the Assessment of Grade 6 Literacy and Numeracy In The Western Cape_
 ###### Supervisors: Prof Tim Dunne, Kutlwano Ramaboa
 ###### Description: Rasch analysis is utilized to assess the validity of a numeracy and literacy test administered to grade six learners from over 1000 schools in the Western Cape in 2007. Rasch analysis is introduced in the context of a background to modern test theory, and the data are then examined with respect to invariance across the latent trait, targeting and reliability, item characteristics and differential item function.
 
