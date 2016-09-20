@@ -78,7 +78,7 @@ Technical Experience
 ### Software & Programming Languages
 
 #### _R, C++, Java & Python_
-Proficient with R, some experience with C++, Java, Scala \& Python
+Proficient with R, some experience with C++, Java, Scala & Python
 
 #### _Databases & Scripting_
 MySQL, T-SQL, Excel, VBA, SSAS, SSMS, SSRS + limited experience with MDX
