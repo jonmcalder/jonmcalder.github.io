@@ -99,10 +99,10 @@ Education
 :   **MSc in Operations Research (with distinction)**; University of Cape Town, Department of Statistics
 
     * Decision modeling, decision support, logical fallacies & reasoning, performance analysis in sport.
-    
-##### Masters dissertation
 
 #### _Player performance evaluation in rugby using Stochastic Multi-Criteria Acceptability Analysis with simplified uncertainty formats_
+
+##### Masters dissertation
 
 ###### Supervisor: Dr Ian Durbach
 
@@ -112,10 +112,10 @@ Description: This study investigates the use of SMAA as a decision support tool 
 :   **BSc (Honours) in Statistics**; University of Cape Town, Department of Statistics
 
     * Operations Research, Decision Modelling, Theory of Statistics, Multivariate Analysis, Econometrics, Portfolio Management.
-    
-##### Honours dissertation
 
 #### _Application of Rasch Analysis to the Assessment of Grade 6 Literacy and Numeracy In The Western Cape_
+
+##### Honours dissertation
 
 ###### Supervisors: Prof Tim Dunne, Kutlwano Ramaboa
 
