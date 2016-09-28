@@ -23,6 +23,9 @@ description: The online home of Jon Calder.
 
 # List of links in the navigation bar
 navbar-links:
+  Software:
+    - refactor: "refactor"
+    - Swirl Courses: "swirl-courses"
   About Me: "aboutme"
   Curriculum Vitae: "cv"
 
