@@ -5,7 +5,6 @@ subtitle: In a few too many paragraphs
 bigimg:
   - "/img/big-imgs/Keyboard.jpg" : "Somerset West, South Africa (2015)"
   - "/img/big-imgs/Jon_Mic.jpg" : "Claremont, Cape Town, South Africa (2015)"
-  - "/img/big-imgs/Jon_at_Misty_Cliffs.jpg" : "Misty Cliffs, Cape Town, South Africa (2015)"
 ---
 
 Hi, I'm Jon. 
