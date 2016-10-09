@@ -29,6 +29,8 @@ from the heart of Durban, PMB is probably best known for being the (joint) home
 of the world's largest and oldest ultramarathon - the Comrades Marathon - which 
 is run between these two cities.
 
+![My dad and I after Cape Town 12 (2016)](/img/small-imgs/Jon_and_Rob.jpg "My dad and I after Cape Town 12 (2016)"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
 Running is probably the simplest sport there is, but certainly not the easiest, 
 and a race of this distance presents a substantial challenge - both physically 
 and mentally. I grew up watching the race on tv, out alongside the road and 
@@ -37,11 +39,11 @@ our house). To this day, I remain in awe of the thousands of people who complete
 this journey each year. One of those people is my father, who has 13 Comrades 
 medals to his name. I remember him once saying of the race, "you will learn 
 things about yourself you wouldn't discover another way". I think I'd like to 
-complete the Comrades Marathon one day :-)
+complete the Comrades Marathon one day.
 
 But don't let that give you the wrong impression - most of the stuff that I'm 
-drawn to generally falls much more towards the other end of the 'physically vs 
-mentally demanding' spectrum...
+drawn to generally falls much more towards the mental end of the physically vs 
+mentally demanding spectrum...
 
 I've always been something of an academic. I thrived in the structured learning 
 environment that school, and later university provided me. Learning is something 
@@ -55,6 +57,8 @@ the world of Operations Research and Decision Science in particular which really
 piqued my interest. So after completing my BSc Honours in Statistics, I 
 ended up undertaking an MSc in Operations Research, sparked by stakeholders from 
 the Stormers rugby franchise in the Western Cape. 
+
+![Playing pool in Bruge](/img/small-imgs/Pool_in_Bruges.jpg "Playing pool in Bruges"){:style="float: left;margin-right: 7px;margin-top: 7px;"}
 
 This resulted in a research project which combined aspects of sports science, 
 decision theory, and a whole lot of modelling and simulation in 
@@ -79,6 +83,8 @@ RightShift was recently acquired by Derivco, which has seen me transition into
 more of a product design role, but with a particular focus on modeling all math 
 related aspects of game design, and guiding the data process to faciliate future 
 product analysis on an ongoing basis.
+
+![The Ryan Calder Band](/img/small-imgs/RCB.jpg "The Ryan Calder Band")
 
 In my spare time, I enjoy running, a myriad of different forms of moving images 
 (sport, e-sport, movies, tv series etc), listening to music, and (when we can 
