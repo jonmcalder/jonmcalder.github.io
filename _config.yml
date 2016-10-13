@@ -23,9 +23,11 @@ description: The online home of Jon Calder.
 
 # List of links in the navigation bar
 navbar-links:
-  Software:
+  R Packages:
     - refactor: "refactor"
-    - Swirl Courses: "swirl-courses"
+  Swirl Courses:
+    - Regular Expressions: "Regular_Expressions"
+    - Diagrammer: "DiagrammeR"
   About Me: "aboutme"
   Curriculum Vitae: "cv"
 
