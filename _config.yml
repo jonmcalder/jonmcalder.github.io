@@ -23,9 +23,9 @@ description: The online home of Jon Calder.
 
 # List of links in the navigation bar
 navbar-links:
-  R Packages:
+  Software Projects:
     - refactor: "refactor"
-  Swirl Courses:
+    - hugobot: "hugobot"
     - Regular Expressions: "Regular_Expressions"
     - Diagrammer: "DiagrammeR"
   About Me: "aboutme"
