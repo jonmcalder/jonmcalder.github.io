@@ -14,7 +14,7 @@ population that drive on the right hand side of the road. Anyway, I believe it
 was while chatting on our way home later that evening that he first mentioned R 
 and that immediately took our budding friendship to the next level :-)
 
-![Lorenz Walthert - the legend himself!](/img/small-imgs/Lorenz.jpg "Lorenz Walthert - the legend himself!"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Lorenz Walthert - the legend himself!](/img/small-imgs/Lorenz.jpg "Lorenz Walthert - the legend himself!"){:style="float: right;margin-right: 15px;margin-top: 15px;margin-left: 15px;margin-bottom: 15px;"}
 
 He had made his way over here to South Africa to undergo a 3 month internship, 
 partnering with the 
