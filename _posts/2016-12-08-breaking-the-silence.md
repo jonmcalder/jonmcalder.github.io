@@ -60,5 +60,4 @@ R at university in 2005 - so in hindsight it really shouldn't have taken me so
 long to get to this stage. Clearly Lorenz was the catalyst I needed to get me 
 going, so I am really grateful to him for that.
 
-So when did Lorenz start using R? A little over a year ago, he tells me. Take a 
-bow son!
+So when did Lorenz start using R? Almost 2 years ago now, he tells me. Take a bow son!
