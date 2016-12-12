@@ -2,7 +2,7 @@
 layout: post
 title: Introducing hugo!
 subtitle: Fun with bot frameworks
-share-img: https://jonmcalder.github.io/img/small-imgs/hubot_avatar.png
+share-img: "https://raw.githubusercontent.com/jonmcalder/jonmcalder.github.io/master/img/small-imgs/hubot_avatar.png"
 tags: [rstats, bots, slack]
 ---
 
