@@ -12,7 +12,7 @@ runs on `node.js` and scripts are written in `CoffeeScript`), the tutorials
 seemed pretty thorough and made the setup process look do-able, so I decided to 
 have a crack at it.
 
-![Hubot avatar](/img/small-imgs/hubot_avatar.png "Hubot avatar"){:style="float: right;margin-right: 10px;margin-top: 10px;margin-left: 10px;margin-bottom: 10px;"}
+![Hubot avatar](https://jonmcalder.github.io/img/small-imgs/hubot_avatar.png "Hubot avatar"){:style="float: right;margin-right: 10px;margin-top: 10px;margin-left: 10px;margin-bottom: 10px;"}
 
 I'll begin with my inspiration for doing this, and then provide an 
 overview of the setup process (which I suggest you skip over if you're not 
@@ -22,7 +22,7 @@ deduced it from the title of this post, his name is Hugo.
 
 ### Motivation
 
-As I mentioned in my [previous post](/2016-12-08-breaking-the-silence), Lorenz 
+As I mentioned in my [previous post](https://jonmcalder.github.io/2016-12-08-breaking-the-silence), Lorenz 
 and I have been collaborating on some `#rstats` projects over the past few 
 months and very early on we started making use of [Slack](https://slack.com/), 
 also using it's Github & Trello integrations which both involve bots.
@@ -123,27 +123,27 @@ Hugo taunts us whenever we mention [Hadley Wickham](http://hadley.nz/) (which is
 fairly often given that we're mostly working on #Rstats related stuff - such is 
 the man's influence on the R community)
 
-![Hugo taunt](/img/small-imgs/hugo_taunt.PNG "Example taunt from Hugo in response to a mention of Hadley")
+![Hugo taunt](https://jonmcalder.github.io/img/small-imgs/hugo_taunt.PNG "Example taunt from Hugo in response to a mention of Hadley")
 
 He makes use of lolcats for many of his responses (because I really like lolcats)
 
-![Hugo lolcats](/img/small-imgs/hugo_lolcats.PNG "Hugo responds/interjects with lolcats sometimes")
+![Hugo lolcats](https://jonmcalder.github.io/img/small-imgs/hugo_lolcats.PNG "Hugo responds/interjects with lolcats sometimes")
 
 He celebrates when we get successful build notifications from Travis  
   
-![Build Passed - lolcat](/img/small-imgs/hugo_build_passed.PNG "An example of Hugo responding to a successful build notification from Travis within the Slack app")
+![Build Passed - lolcat](https://jonmcalder.github.io/img/small-imgs/hugo_build_passed.PNG "An example of Hugo responding to a successful build notification from Travis within the Slack app")
 
 And occasionally the celebrations don't involve lolcats...
 
-![Build Passed - batman](/img/small-imgs/hugo_build_passed.gif "Another example of Hugo responding to a successful build notification from Travis within the Slack app")
+![Build Passed - batman](https://jonmcalder.github.io/img/small-imgs/hugo_build_passed.gif "Another example of Hugo responding to a successful build notification from Travis within the Slack app")
 
 Strangely enough I couldn't spot any failure notifications within our Slack 
 channel but when there is one, Hugo will chime in with an appropriately themed 
 image - which again usually has a high chance of being a lolcat like one of 
 those shown below.  
 
-![Build Failed - Shocked cat](/img/small-imgs/hugo_build_failed_2.jpg "Build failed - Shocked cat"){:style="float: left;margin-right: 15px;margin-top: 10px;margin-left: 0px;margin-bottom: 15px;"}
-![Build Failed - Grumpy cat](/img/small-imgs/hugo_build_failed_3.jpg "Build failed - Grumpy cat"){:style="float: right;margin-right: 0px;margin-top: 10px;margin-left: 15px;margin-bottom: 15px;"}
+![Build Failed - Shocked cat](https://jonmcalder.github.io/img/small-imgs/hugo_build_failed_2.jpg "Build failed - Shocked cat"){:style="float: left;margin-right: 15px;margin-top: 10px;margin-left: 0px;margin-bottom: 15px;"}
+![Build Failed - Grumpy cat](https://jonmcalder.github.io/img/small-imgs/hugo_build_failed_3.jpg "Build failed - Grumpy cat"){:style="float: right;margin-right: 0px;margin-top: 10px;margin-left: 15px;margin-bottom: 15px;"}
 
 ### Further Thoughts
   
@@ -154,7 +154,7 @@ from a chat bot. Hopefully I'll be able to revisit this over time and explore
 some more advanced interactions. There are also loads of hubot scripts all over 
 Github which I am yet to explore (e.g. [here](https://github.com/hubot-scripts)).
 
-![Build Failed - Kitten](/img/small-imgs/hugo_build_failed_1.jpg "Build failed - Kitten"){:style="float: right;margin-right: 0px;margin-top: 15px;margin-left: 15px;margin-bottom: 15px;"}
+![Build Failed - Kitten](https://jonmcalder.github.io/img/small-imgs/hugo_build_failed_1.jpg "Build failed - Kitten"){:style="float: right;margin-right: 0px;margin-top: 15px;margin-left: 15px;margin-bottom: 15px;"}
 
 If you have any ideas or suggestions for Hugo please feel free to comment below 
 or take a look at [the repo](https://github.com/jonmcalder/hugobot) and submit 
