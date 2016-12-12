@@ -14,7 +14,7 @@ population that drive on the right hand side of the road. Anyway, I believe it
 was while chatting on our way home later that evening that he first mentioned R 
 and that immediately took our budding friendship to the next level :-)
 
-![Lorenz Walthert - the legend himself!](/img/small-imgs/Lorenz.jpg "Lorenz Walthert - the legend himself!"){:style="float: right;margin-right: 15px;margin-top: 15px;margin-left: 15px;margin-bottom: 15px;"}
+![Lorenz Walthert - the legend himself!](https://jonmcalder.github.io/img/small-imgs/Lorenz.jpg "Lorenz Walthert - the legend himself!"){:style="float: right;margin-right: 15px;margin-top: 15px;margin-left: 15px;margin-bottom: 15px;"}
 
 He had made his way over here to South Africa to undergo a 3 month internship, 
 partnering with the 
@@ -37,7 +37,7 @@ And then one day towards the end of August, completely out of the blue, Lorenz
 shared this meme with me via e-mail:  
 
 <div style="text-align:center" markdown="1">
-![Austin Powers Meme](/img/small-imgs/Austin_Powers.jpg "Austin Powers Meme - committing directly to master...")
+![Austin Powers Meme](https://jonmcalder.github.io/img/small-imgs/Austin_Powers.jpg "Austin Powers Meme - committing directly to master...")
 </div>
 
 Ironically, at that point in time my 3 year old GitHub account was effectively 
@@ -48,7 +48,7 @@ attention towards a Github repo he had created, which amongst other things
 outlined some early ideas for an R package. He invited me to collaborate, and 
 somehow just 3 days later I found myself active on Github.
 
-![My 2016 Github contributions](/img/small-imgs/2016_Github_Contributions.PNG "My 2016 Github Contributions")
+![My 2016 Github contributions](https://jonmcalder.github.io/img/small-imgs/2016_Github_Contributions.PNG "My 2016 Github Contributions")
 
 Over the 3 month period since then, I have notched up 275 Github contributions, 
 ranging from early progress on collaborative projects with Lorenz, to a few 
