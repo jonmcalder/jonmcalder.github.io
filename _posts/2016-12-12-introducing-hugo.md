@@ -122,15 +122,15 @@ Hugo taunts us whenever we mention [Hadley Wickham](http://hadley.nz/) (which is
 fairly often given that we're mostly working on #Rstats related stuff - such is 
 the man's influence on the R community)
 
-![Hugo taunt](/img/small-imgs/hugo_taunt.png "Example taunt from Hugo in response to a mention of Hadley")
+![Hugo taunt](/img/small-imgs/hugo_taunt.PNG "Example taunt from Hugo in response to a mention of Hadley")
 
 He makes use of lolcats for many of his responses (because I really like lolcats)
 
-![Hugo lolcats](/img/small-imgs/hugo_lolcats.png "Hugo responds/interjects with lolcats sometimes")
+![Hugo lolcats](/img/small-imgs/hugo_lolcats.PNG "Hugo responds/interjects with lolcats sometimes")
 
 He celebrates when we get successful build notifications from Travis  
   
-![Build Passed - lolcat](/img/small-imgs/hugo_build_passed.png "An example of Hugo responding to a successful build notification from Travis within the Slack app")
+![Build Passed - lolcat](/img/small-imgs/hugo_build_passed.PNG "An example of Hugo responding to a successful build notification from Travis within the Slack app")
 
 And occasionally the celebrations don't involve lolcats...
 
