@@ -140,11 +140,13 @@ And occasionally the celebrations don't involve lolcats...
 Strangely enough I couldn't spot any failure notifications within our Slack 
 channel but when there is one, Hugo will chime in with an appropriately themed 
 image - which again usually has a high chance of being a lolcat like one of 
-those shown below.    
-    
+those shown below.  
+
 ![Build Failed - Shocked cat](/img/small-imgs/hugo_build_failed_2.jpg "Build failed - Shocked cat"){:style="float: left;margin-right: 15px;margin-top: 10px;margin-left: 0px;margin-bottom: 15px;"}
 ![Build Failed - Grumpy cat](/img/small-imgs/hugo_build_failed_3.jpg "Build failed - Grumpy cat"){:style="float: right;margin-right: 0px;margin-top: 10px;margin-left: 15px;margin-bottom: 15px;"}
-    
+
+### Further Thoughts
+  
 All of the above examples were straightforward to script as they just rely on 
 rudimentary regular expressions, but I was somewhat surprised at the 
 entertainment value we got out of these simple eavesdrop and respond behaviours 
