@@ -60,7 +60,7 @@ will be conducting workshops on the 16th & 17th February, covering the building
 and validation of logistic regression models, the intersection of R, Git & 
 Github, and the development of reactive web apps with Shiny [(you can find further workshop details here)](http://capetown2017.satrdays.org/#workshops).
 
-![Keynote Speakers for Cape Town satRday](http://jonmcalder.github.io/img/small-imgs/cape-town-satrday-keynote-speakers.png "Keynote Speakers for Cape Town satRday"){:style="float: right;margin-right: 15px;margin-top: 0px;margin-left: 15px;margin-bottom: 15px;"}
+![Keynote Speakers for Cape Town satRday](http://jonmcalder.github.io/img/small-imgs/cape-town-satrday-keynote-speakers.jpg "Keynote Speakers for Cape Town satRday"){:style="float: right;margin-right: 15px;margin-top: 0px;margin-left: 15px;margin-bottom: 15px;"}
 
 A number of other speakers have already been confirmed, with sessions planned 
 around topics such as **R in the Sciences**, **R and Big Data**, and **Applications of R in Industry**. Presentations may take the form of a workshop (90min), standard talk 
@@ -80,5 +80,4 @@ summary of all the key dates relating to the conference:
 | Workshops                        | 2017-02-16 / 2017-02-17 |
 | Conference                       | 2017-02-18              |
 
-All this information - and more - can be found on the website [here](http://capetown2017.satrdays.org). I look forward to seeing many of you 
-at the conference!
+All this information - and more - can be found [on the website](http://capetown2017.satrdays.org). I look forward to seeing many of you at the conference!
