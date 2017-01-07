@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: In a few too many paragraphs
 bigimg:
   - "/img/big-imgs/Keyboard.jpg" : "Somerset West, South Africa (2015)"
@@ -12,13 +12,14 @@ Hi, I'm Jon.
 I’m a data analyst, R enthusiast, hobbyist musician, hopeful runner and 
 lifelong learner. I work as part of a product team at 
 [Derivco](http://derivco.com/), where I am engaged in a mixture of product 
-design and analysis. I live in the beautiful city of Cape Town and I am proudly 
-South African.
+design, game maths and analysis. I live in the beautiful city of Cape Town and 
+I am proudly South African.
 
-Please feel free to connect with me! My email address is included in the footer 
-along with social media and other links.
+Please feel free to connect with me! Either send me a direct message using the 
+form available on the [Contact](http://jonmcalder.github.io/contact/) page, or 
+have a look at the footer for my social media, Github and other links.
 
-For a longer bio, keep on reading below!
+For a more lengthy bio, keep on reading below!
 
 ## Bio
 
