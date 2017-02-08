@@ -2,6 +2,7 @@
 layout: post
 title: Here's To The Ones Who Dream
 subtitle: Thoughts on La La Land
+share-img: "http://jonmcalder.github.com/img/small-imgs/La-La-Land.jpg"
 tags: [movies, music, art, soundtrack]
 ---
 
