@@ -37,6 +37,6 @@ If you're interested, there are a number of ways you can get involved:
 - Checkout the list of [unimplemented exercises](http://exercism.io/languages/r/todo) for the R track and follow the instructions there to submit a pull request
 - Lastly, look through `exercism.io's` [contributing doc](https://github.com/exercism/exercism.io/blob/master/CONTRIBUTING.md), which outlines a number of other ways you can get involved (either with a specific language track, or across other areas of the project as well)
 
-Based on my involvement so far the `exercism.io` community seems very friendly and open*, and I think its a great open source initiative, so there's no reason why the `#rstats` community shouldn't be well represented there.
+Based on my involvement so far the `exercism.io` community seems very friendly and open, and I think its a great open source initiative, so there's no reason why the `#rstats` community shouldn't be well represented there.
 
 On that note, a big thank you to exercism's contributors, and especially to [Jonathan Boiser](http://jonboiser.com/) and [Katrina Owen](http://www.kytrinyx.com/) for being friendly, helpful and supportive of my involvement in the project thus far. You guys are excellent role models for the greater open source community.
