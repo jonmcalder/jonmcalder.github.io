@@ -23,11 +23,7 @@ description: The online home of Jon Calder.
 
 # List of links in the navigation bar
 navbar-links:
-  Projects:
-    - refactor: "refactor"
-    - hugobot: "hugobot"
-    - Regular Expressions: "Regular_Expressions"
-    - Diagrammer: "DiagrammeR"
+  Projects: "projects"
   About: "aboutme"
   Curriculum Vitae: "cv"
   Contact: "contact"
