@@ -3,15 +3,8 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://jonmcalder.github.io"
+url: "http://joncalder.co.za"
 baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
 title: Jon Calder
@@ -39,13 +32,13 @@ avatar: "/img/Jon.jpg"
 author:
   name: Jon Calder
   # email: "jonmcalder@gmail.com"
-  github: jonmcalder    # eg. daattali
-  stackoverflow: 1303397/jon-calder  # eg. "3943160/daattali"
-  linkedin: jonmatthewcalder  # eg. daattali
-  twitter: jonmcalder   # eg. daattali
-  facebook: joncalder  # eg. daattali
-  instagram: jonmcalder # eg. daattali
-  google-plus: +joncalder   # eg. +DeanAttali or 109424658772469020925
+  github: jonmcalder
+  stackoverflow: 1303397/jon-calder
+  linkedin: jonmatthewcalder
+  twitter: jonmcalder
+  facebook: joncalder
+  instagram: jonmcalder
+  google-plus: +joncalder
 
 # Select which links to show in the footer
 footer-links-active:
@@ -72,7 +65,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "joncalder.co.za"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "joncalder.co.za"
 
 # --- Misc --- #
 
@@ -170,6 +163,3 @@ prose:
 
 gems:
   - jekyll-paginate
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
