@@ -2,6 +2,7 @@
 layout: post
 title: Breaking the Silence
 subtitle: Reflections on new beginnings...
+share-img: "http://raw.githubusercontent.com/jonmcalder/jonmcalder.github.io/master/img/small-imgs/Lorenz.jpg"
 tags: [rstats, new beginnings, friendship, Github]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: Welcome to R-bloggers!
 subtitle: Tal Galili, empowering bloggers to empower other R users
+share-img: "http://raw.githubusercontent.com/jonmcalder/jonmcalder.github.io/master/img/small-imgs/r-bloggers.png"
 tags: [rstats, R, blogs, r-bloggers]
 ---
 
