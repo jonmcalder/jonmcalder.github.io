@@ -46,7 +46,7 @@ I recall our first encounter with double integrals surfacing early on in a 2nd y
 
 The interesting thing though is that I barely even knew statistics existed during most of my time at school. So how did I come to be interested in statistics at university? I believe a key catalyst was something which took place back in my grade 11 biology class. While covering the human reproductive system, we began a brief foray into the field of genetics, looking at chromosomes, DNA and RNA, proteins and all that life-shaping magic. Somewhere in the midst of all that, one day my teacher entered into a discussion about red-green colour blindness, highlighting that it is much more common in men. And so we were introduced to the concept of X-linked recessive inheritance.
 
-![colorblind pie chart](http://jonmcalder.github.io/img/small-imgs/colorblind.jpg "colorblind pie chart"){: .center-image }
+![colorblind pie chart](http://jonmcalder.github.io/img/small-imgs/colorblind.jpg "colorblind pie chart"){: .center-content }
 
 I'm pretty sure he simplified things significantly in order to shield us from some of the complexities involved, so I will do the same here (with apologies to any geneticists who might be reading this). Here are the key pieces of information:
 
@@ -57,7 +57,7 @@ I'm pretty sure he simplified things significantly in order to shield us from so
 
 The resulting inheritance pattern, known as X-linked recessive inheritance, is nicely illustrated in the below diagram.
 
-![X-linked recessive inheritance](http://jonmcalder.github.io/img/small-imgs/x_linked_recessive.png "X-linked recessive inheritance"){: .center-image }
+![X-linked recessive inheritance](http://jonmcalder.github.io/img/small-imgs/x_linked_recessive.png "X-linked recessive inheritance"){: .center-content }
 
 (diagram sourced from [Wikipedia](https://en.wikipedia.org/wiki/X-linked_recessive_inheritance))
 
