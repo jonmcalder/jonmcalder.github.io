@@ -3,7 +3,7 @@ layout: post
 title: The spark of statistics
 subtitle: The science of us
 share-img: "http://raw.githubusercontent.com/jonmcalder/jonmcalder.github.io/master/img/small-imgs/iris_sepalwidth.png"
-tags: [statistics, maths, teachers, learning]
+tags: [statistics, maths, teachers, learning, rstats]
 ---
 
 I've enjoyed maths for pretty much as long as I can remember. I'm aware that it is rare to make such a statement. Probably straight up weird to some. But that just shows how much I have to be grateful for. I am indebted to my parents, extended family and friends and a number of great teachers over the years who made sacrifices in order to give me solid learning opportunities and a supportive environment.
