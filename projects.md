@@ -24,7 +24,7 @@ subtitle:
 
 - [refactor](https://jonmcalder.github.io/refactor/): Better factor handling for R 
 - [pRojects](https://github.com/lockedata/pRojects): A tool for setting up R projects and related infrastructure
-- [exercism](https://github.com/jonmcalder/exercism): An R package for interacting with the exercism.io API
+- [exercism](https://jonmcalder.github.io/exercism/): An R package for interacting with the exercism.io API
 - [strcode](https://lorenzwalthert.github.io/strcode/): Structure your code better
 - [gitsum](https://github.com/lorenzwalthert/gitsum): Summarise the history of any git repository
 
