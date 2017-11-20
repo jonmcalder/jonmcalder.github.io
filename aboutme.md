@@ -89,7 +89,7 @@ product analysis on an ongoing basis.
 In my spare time, I enjoy running, a myriad of different forms of moving images 
 (sport, e-sport, movies, tv series etc), listening to music, and (when we can 
 find time) making music with my brother and other friends (for more info 
-see [ryancalder.co.za](www.ryancalder.co.za)). I am also a keen sound engineer 
+see [ryancalder.co.za](http://www.ryancalder.co.za)). I am also a keen sound engineer 
 with some experience mixing in live environments, though I'd also like to 
 develop some more knowledge and expertise on the production side of things. 
 Along with all of this I am also trying to get more involved in 
