@@ -24,6 +24,8 @@ So the question I want to raise is this:
 
 > "When (if ever) is it a good idea to adopt a prefixing convention for the names of exported functions in an R package?"
 
+## Disclaimers
+
 Before I dive into the details I feel it is important to state a few things upfront.
 
 Firstly, I want to thank my friends and collaborators Katrin and Lorenz who are strong proponents of open source software and for whom I have a lot of respect. On this occasion they both seem to disagree with me, but that is not a bad thing - discussion and debate is valuable, and that's not gonna happen when everyone agrees with each other all the time. I did also ask for their permission before publishing this post.
@@ -36,7 +38,9 @@ Thirdly, I was wrong. This is especially important in light of the previous poin
 
 Lastly, what I share will be my own opinion, but it is just an opinion and I'm always open to learning from others with different views. My hope is that collectively we can share some worthwhile perspectives from both sides and possibly encourage more thinking and conversation around this or related issues.
 
-Ok, so having made those upfront disclaimers, I'll begin by summarizing the back-story and context in which the discussion arose. If you'd like to refer to the pull request itself - it can be found [here](https://github.com/jonmcalder/exercism/pull/9).
+## Background Context
+
+Ok, so having made those upfront disclaimers, I'll begin by summarizing the back-story and context in which the discussion arose. If you'd like to refer to the pull request itself - it can be found [here](https://github.com/jonmcalder/exercism/pull/9#pullrequestreview-66774136).
 
 ![R track on Exercism](http://jonmcalder.github.io/img/small-imgs/r_exercism_icon.png "R track on exercism"){:style="float: left;margin-right: 15px;margin-top: 15px;margin-left: 15px;margin-bottom: 15px;width: 200px;"}
 
@@ -45,6 +49,8 @@ Ok, so having made those upfront disclaimers, I'll begin by summarizing the back
 A few months ago, I had an idea to write an R package which wraps this API. The thinking was that the user experience (for R users) might be improved upon by facilitating interaction with `exercism.io` directly from R itself. This removes the need for switching repeatedly between R and a shell when fetching, iterating on and submitting exercises - although now the addition of terminal tabs in RStudio 1.1 has already reduced this friction to a degree. In any case, there are additional opportunities for Exercism helper functions in the package which can be context aware and integrate with the RStudio if it is being used. An example this could be functions (or addins) which make use of the `rstudioapi` to detect which problem was last worked on when submitting so that it doesn't need to be specified manually.
 
 Katrin, who is a co-maintainer for the R track on exercism.io, has also been collaborating on this R package with me and has had some great ideas like leveraging [testthat's](http://testthat.r-lib.org/) `auto_test()` to facilitate and encourage test driven development, as this is one of the implicit goals of Exercism. In the PR introducing this feature, the potential for function name confusion was soon evident when this new Exercism specific version of `testthat::auto_test()` was (initially) given the name `autotest()`. This reminded me that I'd in fact been thinking for a while about renaming all the exported functions to adopt the prefixing convention `ex_*` (for a few different reasons which I'll get to later). So I figured this "name clash" was as good a catalyst as any, and made the suggestion to start adopting the new naming convention in the PR. Once again it's worth noting that this was a mistake - I should have instead opened a separate issue to discuss my proposed change in naming conventions.
+
+## Discussion & follow-up
 
 The suggestion was met with some resistance, and after some further discussion it became clear to me that it was a thoughtfully considered resistance. So I asked my friend Lorenz to weigh in on the discussion too, given that he knows Katrin and I but is not involved in the project and thus has the benefit of a more neutral perspective. To my surprise, he did not agree with me either!
 
@@ -70,9 +76,9 @@ Interestingly, this suggestion (although the original inspiration may have come 
 
 > Consider an object_verb() naming scheme for functions in your package that take a common data type or interact with a common API. object refers to the data/API and verb the primary action. This scheme helps avoid namespace conflicts with packages that may have similar verbs, and makes code readable and easy to auto-complete. For instance, in `stringi`, functions starting with `stri_` manipulate strings (`stri_join()`, `stri_sort()`, and in `googlesheets` functions starting with `gs_` are calls to the Google Sheets API (`gs_auth()`, `gs_user()`, `gs_download()`).
 
-Though I hadn't seen this at the time, it aligns very strongly with my initial reasoning for wanting to change the function names in the `exercism` package. It is primarily an API package, and all functions either interact with the exercism.io API or act on some (local) Exercism data/code (exercises). A potential objection could be that in some cases the `ex_*` prefix may be interpreted either as `exercism_*` or as `exercise_*`, but I don't think that's a problem since either way the context is common and shared implicitly.
+Though I hadn't seen this recommendation from ROpenSci at the time, it aligns very strongly with my initial reasoning for wanting to change the function names in the `exercism` package. It is primarily an API package, and all functions either interact with the exercism.io API or act on some (local) Exercism data/code (exercises). A potential objection could be that in some cases the `ex_*` prefix may be interpreted either as `exercism_*` or as `exercise_*`, but I don't think that's a problem since either way the context is common and shared implicitly.
 
-Having said that, I'm also aware that a prefixing convention is not suitable in the majority of cases and there are reasons to avoid it, otherwise it would already be far more common. I believe Katrin and Lorenz both raised a number of good points over in the [original PR thread](https://github.com/jonmcalder/exercism/pull/9), so I would encourage you to read through that for more background.
+Having said that, I'm also aware that a prefixing convention is not suitable in the majority of cases and there are reasons to avoid it, otherwise it would already be far more common. I've not tried to summarize the arguments for and against it here since this post is already quite lengthy, but I believe Katrin and Lorenz both raised a number of good points over in the [original PR thread](https://github.com/jonmcalder/exercism/pull/9#issuecomment-334929991), so I would encourage you to read through that to get some more insight into the potential pros and cons.
 
 Below is an overview of the currently exported functions for `exercism`, along with a brief 
 description of what they do and potential new names for each should we adopt a prefixing convention:
@@ -92,4 +98,4 @@ description of what they do and potential new names for each should we adopt a p
 | `browse_exercise()` | Navigate to an exercise description on exercism.io | `ex_browse()` |
 | `browse_solution()` | Navigate to an exercise solution on exercism.io | *special case of `ex_browse()` |
 
-So looking at the above, is this a good use case for an `object_verb()` naming convention? How does one determine this? Please feel free to comment with your thoughts and suggestions below or ping me on [Twitter](https://twitter.com/jonmcalder).
+So looking at the above, do you think this a good use case for an `object_verb()` naming convention? How should one determine this? Please feel free to comment with your thoughts and suggestions below or ping me on [Twitter](https://twitter.com/jonmcalder).
