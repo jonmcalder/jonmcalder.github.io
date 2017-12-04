@@ -98,4 +98,4 @@ description of what they do and potential new names for each should we adopt a p
 | `browse_exercise()` | Navigate to an exercise description on exercism.io | `ex_browse()` |
 | `browse_solution()` | Navigate to an exercise solution on exercism.io | *special case of `ex_browse()` |
 
-So looking at the above, do you think this a good use case for an `object_verb()` naming convention? How should one determine this? Please feel free to comment with your thoughts and suggestions below or ping me on [Twitter](https://twitter.com/jonmcalder).
+So looking at the above, do you think this a good use case for an `object_verb()` naming convention? How should one determine this? Please feel free to comment with your thoughts and suggestions either in the comments section below, on [Twitter](https://twitter.com/jonmcalder), or in [this RStudio Community discussion thread](https://community.rstudio.com/t/function-naming-conventions-and-best-practice/3381).
