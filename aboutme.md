@@ -7,13 +7,14 @@ bigimg:
   - "/img/big-imgs/Jon_Mic.jpg" : "Claremont, Cape Town, South Africa (2015)"
 ---
 
-Hi, I'm Jon. 
+Hi, I'm Jon.
 
-I’m a data analyst, R enthusiast, hobbyist musician, hopeful runner and 
-lifelong learner. I work as part of a product team at 
-[Derivco](http://derivco.com/), where I am engaged in a mixture of product 
-design, game maths and analysis. I live in the beautiful city of Cape Town and 
-I am proudly South African.
+I’m a data scientist, R enthusiast, hobbyist musician, hopeful runner and 
+lifelong learner. I work as an automation engineer at 
+[Libryo](http://libryo.com/), where I am engaged in the use of computation to 
+assist with content ingestion, analysis, and anything else it might be able to 
+help us with. I live in the beautiful city of Cape Town and I am proudly South 
+African.
 
 Please feel free to connect with me! Either send me a direct message using the 
 form available on the [Contact](http://jonmcalder.github.io/contact/) page, or 
@@ -73,26 +74,33 @@ good exposure to some of the challenges of managing and manipulating large
 amounts of data. Our core tooling included MySQL, SQL Server, and much of the 
 Microsoft Business Intelligence stack - SSAS, SSIS and SSRS - along with a good
 deal of Excel. Over and above that I also did a few projects which leveraged R 
-to embed dynamic reports and visualizations on the company wiki, or for some 
+to embed dynamic reports and visualizations on the company wiki, and for some 
 [Shiny apps](http://shiny.rstudio.com/).
 
-I completed my MSc in 2013, and have since produced two publications 
-[(see here)](http://jonmcalder.github.io/cv/) with the help of my supervisor 
+I completed my MSc in 2013, and produced two publications 
+[(see here)](http://jonmcalder.github.io/cv/) shortly thereafter with the help 
+of my supervisor 
 [Dr Ian Durbach](http://www.stats.uct.ac.za/stats/people/academic/durbach). 
-RightShift was recently acquired by Derivco, which has seen me transition into 
+RightShift was acquired by Derivco in 2015/2016, which saw me transition into 
 more of a product design role, but with a particular focus on modeling all math 
-related aspects of game design, and guiding the data process to faciliate future 
-product analysis on an ongoing basis.
+related aspects of game design. Then in 2017, I joined one of the data science 
+teams at Derivco, which allowed me to be more involved facilitating product 
+analysis on an ongoing basis.
+
+At the beginning of 2018 I joined [Libryo](http://libryo.com/) - a legal-tech 
+start-up founded in London by three South African entrepeneurs. Libryo is an 
+orgranisation on a mission to make it easier for companies to know the law, and 
+keep it. We're on an exciting journey, and my part in it is only just beginning!
 
 ![The Ryan Calder Band](/img/small-imgs/RCB.jpg "The Ryan Calder Band")
 
 In my spare time, I enjoy running, a myriad of different forms of moving images 
 (sport, e-sport, movies, tv series etc), listening to music, and (when we can 
 find time) making music with my brother and other friends (for more info 
-see [ryancalder.co.za](http://www.ryancalder.co.za)). I am also a keen sound engineer 
-with some experience mixing in live environments, though I'd also like to 
-develop some more knowledge and expertise on the production side of things. 
-Along with all of this I am also trying to get more involved in 
+see [ryancalder.co.za](http://www.ryancalder.co.za)). I am also a keen sound 
+engineer with some experience mixing in small live environments, and a casual 
+interest in various aspects of both studio and live production. Along with all 
+of this I am also trying to get more involved in 
 [R and other open-source development](http://github.com/jonmcalder), and hope to 
 continue growing my technical skillset in pursuit of becoming a more rounded 
 data scientist.
