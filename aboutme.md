@@ -81,26 +81,25 @@ I completed my MSc in 2013, and produced two publications
 [(see here)](http://jonmcalder.github.io/cv/) shortly thereafter with the help 
 of my supervisor 
 [Dr Ian Durbach](http://www.stats.uct.ac.za/stats/people/academic/durbach). 
-RightShift was acquired by Derivco in 2015/2016, which saw me transition into 
-more of a product design role, but with a particular focus on modeling all math 
-related aspects of game design. Then in 2017, I joined one of the data science 
-teams at Derivco, which allowed me to be more involved facilitating product 
-analysis on an ongoing basis.
+RightShift was acquired by [Derivco](https://derivco.com/) in 2015/2016, which 
+saw me transition into more of a product design role, but with a particular 
+focus on modeling all math related aspects of game design. Then in 2017, I 
+joined one of the data science teams at Derivco, which allowed me to be more 
+involved facilitating product analysis on an ongoing basis.
 
 At the beginning of 2018 I joined [Libryo](http://libryo.com/) - a legal-tech 
 start-up founded in London by three South African entrepeneurs. Libryo is an 
-orgranisation on a mission to make it easier for companies to know the law, and 
+organisation on a mission to make it easier for companies to know the law, and 
 keep it. We're on an exciting journey, and my part in it is only just beginning!
 
 ![The Ryan Calder Band](/img/small-imgs/RCB.jpg "The Ryan Calder Band")
 
 In my spare time, I enjoy running, a myriad of different forms of moving images 
-(sport, e-sport, movies, tv series etc), listening to music, and (when we can 
-find time) making music with my brother and other friends (for more info 
+(sport, e-sport, movies, tv series etc), listening to music, and - when we can 
+find time - making music with my brother and other friends (for more info 
 see [ryancalder.co.za](http://www.ryancalder.co.za)). I am also a keen sound 
-engineer with some experience mixing in small live environments, and a casual 
-interest in various aspects of both studio and live production. Along with all 
-of this I am also trying to get more involved in 
+engineer with a casual interest in various aspects of both studio and live 
+production. Along with all of this I am also trying to be more involved in 
 [R and other open-source development](http://github.com/jonmcalder), and hope to 
 continue growing my technical skillset in pursuit of becoming a more rounded 
 data scientist.
