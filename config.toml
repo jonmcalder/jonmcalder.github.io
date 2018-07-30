@@ -1,4 +1,4 @@
-baseurl = "https://joncalder.co.za"
+baseurl = "https://www.joncalder.co.za"
 DefaultContentLanguage = "en"
 title = "Jon Calder"
 theme = "beautifulhugo"

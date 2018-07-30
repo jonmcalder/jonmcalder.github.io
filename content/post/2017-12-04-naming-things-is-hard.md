@@ -1,7 +1,7 @@
 ---
 title: Naming things is hard
 subtitle: Prefixing R function names
-date: 2017-02-04
+date: 2017-12-04
 tags: [rstats, R, exercism, open source, programming]
 ---
 
