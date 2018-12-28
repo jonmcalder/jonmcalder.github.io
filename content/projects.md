@@ -18,13 +18,13 @@ subtitle:
 ### [exercism.io](http://exercism.io)
 *Download and solve practice problems in over 30 different languages*
 
-> I am currently a maintainer of the [R track](https://github.com/exercism/xr)
+> I am currently a maintainer of the [R track](https://github.com/exercism/r)
 
-## R packages
+## R packages I've collaborated on
 
 - [styler](https://github.com/r-lib/styler): Non-invasive pretty printing of R code 
 - [pRojects](https://github.com/lockedata/pRojects): A tool for setting up R projects and related infrastructure
-- [refactor](https://github.com/jonmcalder//refactor/): Better factor handling for R
+- [refactor](https://github.com/jonmcalder/refactor/): Better factor handling for R
 - [exercism](https://github.com/jonmcalder/exercism): An R package for interacting with the exercism.io API
 - [strcode](https://github.com/lorenzwalthert/strcode): Structure your code better
 - [gitsum](https://github.com/lorenzwalthert/gitsum): Summarise the history of any git repository
