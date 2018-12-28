@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contact Me
-css: "/css/contact.css"
 ---
 
+<link rel="stylesheet" href="/css/contact.css" />
 <form action="https://formspree.io/jonmcalder@gmail.com" method="POST" class="form" id="contact-form">
   <p>If you'd like to get in touch, please send me a message using the form 
   below. Alternatively, you can make use of the links included in the footer to 

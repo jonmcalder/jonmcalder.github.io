@@ -16,8 +16,26 @@ Jon Calder
 Experience
 ---------
 
-September 2016 - Present
-:   **Data Analyst**; Derivco - Cape Town
+February 2018 - Present
+:   **Automation Engineer**; [Libryo](https://libryo.com/)
+
+    * Research and development on how to best automate & augment processes on 
+    the Libryo Platform
+    * Database management, maintenance and support
+    * Data analysis, dashboarding and reporting
+    * Software development and maintenance of development, staging 
+    and production environments
+    * Strategic support and consultation around technology decisions
+    * Assist with the management and implementation of strategic objectives
+
+September 2017 - Present
+:   **Guest Lecturer**; [University of Cape Town](http://www.uct.ac.za/)
+
+    * [Data Science for Industry](https://github.com/iandurbach/datasci-fi) is a 24-lecture, 12 credit module in the MSc in Data Science program at the University of Cape Town
+    * Teaching material for the development of (1) R packages and (2) Shiny apps which comprise the communication section of the course
+
+September 2016 - January 2018
+:   **Data Scientist**; [Derivco - Cape Town](https://derivco.co.za/locations/south-africa/cape-town/)
 
     * work with product and design teams to inform and assist with product and feature design
     * assist with both functional and technical product documentation
@@ -37,7 +55,7 @@ October 2011 - August 2016
     * perform ongoing analysis in order to inform decision making on game and meta-game development and configuration utilizing A-B testing
     
 2008 - 2011
-:   **Student Tutor**; University of Cape Town, Department of Statistics
+:   **Student Tutor**; [University of Cape Town, Department of Statistics](http://www.stats.uct.ac.za/)
 
     * Tutored undergraduate statistics courses from 1st year through to 3rd year
     * Responsibilities involved:
@@ -155,16 +173,17 @@ Achievements and Extra Murals
   * Other sports played (mostly club/social) while at school and university include: soccer (indoor and outdoor), action cricket, cricket, squash, touch rugby and ultimate frisbee
  
 #### Community Service
-  * 2007 - 1st Year mentor, Smuts Hall (UCT Residence)
-  * 2004 - Grade 8 mentor, Carter High School
-  * 2003 - Member of Matric Dance Committee, Carter High School
+  * Since 2017: Member of [RWeekly](https://rweekly.org/about)
+  * Since 2017: Co-organiser of [satRdays](https://satrdays.org/) in South Africa (e.g. see [satRday CT 2018](https://capetown2018.satrdays.org))
+  * Since 2017: Mentor and maintainer of the R track on [exercism.io](http://exercism.io)
+  * 2007: 1st Year mentor, Smuts Hall (UCT Residence)
+  * 2004: Grade 8 mentor, Carter High School
+  * 2003: Member of Matric Dance Committee, Carter High School
 
 Interests & Hobbies
 --------------------
-* Gamification, Behavioural Analytics
-* Data mining, Decision making and decision support
-* Piano/Keyboard & Guitar
-* Sound engineering and mixing
+* Piano/Keyboard
+* Sound engineering
 * Running
 
 ----
