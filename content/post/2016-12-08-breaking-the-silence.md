@@ -15,9 +15,7 @@ Mutually encouraged by our passion for R and statistics, our friendship blossome
 
 And then one day towards the end of August, completely out of the blue, Lorenz shared this meme with me via e-mail:  
 
-<div style="text-align:center" markdown="1">
 ![Austin Powers Meme](/img/small-imgs/Austin_Powers.jpg "Austin Powers Meme - committing directly to master...")
-</div>
 
 Ironically, at that point in time my 3 year old GitHub account was effectively lying dormant, with a history of 1, 9, and 4 contributions in 2013, 2014 and 2015 respectively, and a majestic 0 contributions for 2016. Anyway, we quickly struck up a conversation over email to catch up, and before long, he directed my attention towards a Github repo he had created, which amongst other things outlined some early ideas for an R package. He invited me to collaborate, and somehow just 3 days later I found myself active on Github.
 

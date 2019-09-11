@@ -8,7 +8,7 @@ tags: [rstats, R, blogs, r-bloggers]
 
 Hooray! I am now part of the [R-bloggers](https://www.r-bloggers.com/) community!
 
-![R-bloggers logo](/img/small-imgs/r-bloggers.png "R-bloggers Logo"){:style="float: right;margin-right: 15px;margin-top: 15px;margin-left: 15px;margin-bottom: 15px;"}
+![R-bloggers logo](/img/small-imgs/r-bloggers.png#floatright "R-bloggers Logo")
 
 R-bloggers is a blog aggregator for content created by the `Rstats` community. It was founded by [Tal Galili](https://www.r-statistics.com/) towards the [end of 2009](https://www.r-statistics.com/2009/12/announcing-r-bloggers-com-a-new-r-news-site-for-bloggers-by-bloggers/), in order to help connect R bloggers with R users (and each other).
 

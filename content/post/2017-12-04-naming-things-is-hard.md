@@ -29,7 +29,7 @@ Before I dive into the details I feel it is important to state a few things upfr
 
 Firstly, I want to thank my friends and collaborators Katrin and Lorenz who are strong proponents of open source software and for whom I have a lot of respect. On this occasion they both seem to disagree with me, but that is not a bad thing - discussion and debate is valuable, and that's not gonna happen when everyone agrees with each other all the time. I did also ask for their permission before publishing this post.
 
-![xkcd: Survivorship Bias](https://imgs.xkcd.com/comics/survivorship_bias.png "xkcd: Survivorship Bias"){:style="float:right;margin-right: 15px;margin-top: 15px;margin-left: 15px;margin-bottom: 15px;width:300px;"}
+![xkcd: Survivorship Bias](https://imgs.xkcd.com/comics/survivorship_bias.png#floatright "xkcd: Survivorship Bias")
 
 Secondly, my purpose in writing about this is less about trying to determine who is right, and more about attempting to convert this experience into insight. Often we learn more from our failures than from our successes, but it's harder to share our mistakes than it is to share our triumphs. So this post is my way of being vulnerable about something that is a work in progress and the process of trying to improve on it. As an aside, if you haven't encountered survivorship bias before, I highly recommend you [read this](https://youarenotsosmart.com/2013/05/23/survivorship-bias/).
 
@@ -41,7 +41,7 @@ Lastly, what I share will be my own opinion, but it is just an opinion and I'm a
 
 Ok, so having made those upfront disclaimers, I'll begin by summarizing the back-story and context in which the discussion arose. If you'd like to refer to the pull request itself - it can be found [here](https://github.com/jonmcalder/exercism/pull/9#pullrequestreview-66774136).
 
-![R track on Exercism](/img/small-imgs/r_exercism_icon.png#floatleft "R track on exercism")
+![R track on Exercism](/img/small-imgs/exercism_R_logo.png#floatleft "R track on exercism")
 
 [excercism.io](http://exercism.io/) is a learning platform that aims to provide code practice and mentorship for everyone. I got involved in developing the R track on Exercism and wrote about it [earlier this year](http://joncalder.co.za/2017-04-05-r-track-on-exercism/). Unlike most online learning platforms, with Exercism, all the coding happens on your machine in an environment you're familiar with. So Exercism provides a command line tool which leverages an API in order to facilitate the process of fetching and submitting exercises.
 
@@ -83,7 +83,7 @@ Below is an overview of the currently exported functions for `exercism`, along w
 description of what they do and potential new names for each should we adopt a prefixing convention:
 
 | Current Function | Description | New Name? |
-| -- | -- | -- |
+|:-- |:-- |:-- |
 | `set_api_key()` | Set an environment variable for the provided exercism.io API key, and store in .Renviron so that it can persist for future sessions. | `ex_set_key()` |
 | `set_exercism_path()` | Set an environment variable for the provided exercism path, and store in .Renviron so that it can persist for future sessions. | `ex_set_path()` |
 | `track_status()` | Fetches current track status from exercism.io | `ex_status()` |
