@@ -1,0 +1,4 @@
+.gallery .box {
+  width: 50% !important; 
+  padding-bottom: -50% !important;
+}

@@ -1,0 +1,97 @@
+baseurl = "https://www.joncalder.co.za"
+DefaultContentLanguage = "en"
+title = "Jon Calder"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+disqusShortname = "jonmcalder"
+googleAnalytics = "UA-83447601-1"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[Params]
+  homeTitle = "Jon Calder" # Set a different text for the header on the home page
+  subtitle = "Data Scientist - R Enthusiast - Musician"
+  logo = "img/jon.jpg"
+  favicon = "img/jc.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  useHLJS = true
+  socialShare = false
+  gcse = "016433434137472509554:npbju9plsge" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  custom_css = ["css/images.css"]
+
+[[Params.bigimg]]
+  src = "img/big-imgs/Lions_Head.jpg"
+  desc = "Lions Head, Cape Town, South Africa (2016)"
+[[Params.bigimg]]
+  src = "img/big-imgs/Signal_Hill_Sunset.jpg"
+  desc = "Signal Hill, Cape Town, South Africa (2015)"
+[[Params.bigimg]]
+  src = "img/big-imgs/Misty_Cliffs.jpg"
+  desc = "Misty Cliffs, Cape Town, South Africa (2016)"
+# position: see values of CSS background-position.
+[[Params.bigimg]]
+  src = "img/big-imgs/Signal_Hill.jpg"
+  desc = "Signal Hill, Cape Town, South Africa (2015)"
+
+[permalinks]
+    post = "/:year-:month-:day-:slug/"
+
+[Author]
+  name = "Jon Calder"
+  website = "joncalder.co.za"
+  # email = "jonmcalder@gmail.com"
+  twitter = "jonmcalder"
+  instagram = "jonmcalder"
+  facebook = "jon.calder"
+  linkedin = "jonmatthewcalder"
+  github = "jonmcalder"
+  # gitlab = "jonmcalder"
+  stackoverflow = "users/1303397/jon-calder"
+  # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
+  # bitbucket = "username"
+  # reddit = "username"
+  # xing = "username"
+  # snapchat = "username"
+  # youtube = "user/username" # or channel/channelname
+  # soundcloud = "username"
+  # spotify = "username"
+  # bandcamp = "username"
+  # itchio = "username"
+  # vk = "username"
+  # paypal = "username"
+  # telegram = "username"
+
+[[menu.main]]
+    name = "Projects"
+    url = "projects"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "aboutme"
+    weight = 2
+
+[[menu.main]]
+    name = "Curriculum Vitae"
+    url = "cv"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "contact"
+    weight = 4
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 5
