@@ -26,12 +26,13 @@ subtitle:
 - [pRojects](https://github.com/lockedata/pRojects): A tool for setting up R projects and related infrastructure
 - [refactor](https://github.com/jonmcalder/refactor/): Better factor handling for R
 - [exercism](https://github.com/jonmcalder/exercism): An R package for interacting with the exercism.io API
+- [precommit](https://github.com/lorenzwalthert/precommit): pre-commit hooks for R projects
 - [strcode](https://github.com/lorenzwalthert/strcode): Structure your code better
 - [gitsum](https://github.com/lorenzwalthert/gitsum): Summarise the history of any git repository
 
 ## Other personal projects
 
 - [exercism track config](https://github.com/jonmcalder/exercism-config-viz): Shiny app for visualizing track config on exercism.io
-- [regular expressions](/Regular_Expressions/): Swirl course on regular expressions in R
-- [diagrammer](/DiagrammeR/): Swirl course for the DiagrammeR package
+- [regular expressions](https://github.com/jonmcalder/regular_expressions): Swirl course on regular expressions in R
+- [diagrammer](https://github.com/jonmcalder/diagrammer): Swirl course for the DiagrammeR package
 - [hugobot](https://github.com/jonmcalder/hugobot): A chat bot built on the Hubot framework
